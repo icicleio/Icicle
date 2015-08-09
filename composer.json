@@ -34,13 +34,6 @@
         "ext-pcntl": "Enables custom signal handling.",
         "ext-event": "Provides an event loop with better performance."
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev",
-            "dev-v1.x": "1.x-dev",
-            "dev-v0.8.x": "0.8.x-dev"
-        }
-    },
     "autoload": {
         "psr-4": {
             "Icicle\\": "src"
