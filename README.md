@@ -23,7 +23,7 @@ Icicle uses [Coroutines](#coroutines) built with [Promises](#promises) to facili
 - [Concurrent](https://github.com/icicleio/concurrent): Provides an easy to use interface for parallel execution with non-blocking communication and task execution (under development).
 - [DNS](https://github.com/icicleio/dns): Asynchronous DNS resolver and connector.
 - [HTTP](https://github.com/icicleio/http): Asynchronous HTTP server and client (under development).
-- [React Adapter](https://github.com/icicleio/react-adaptor): Adapts the event loop and promises of Icicle to interfaces compatible with components built for React.
+- [React Adapter](https://github.com/icicleio/react-adapter): Adapts the event loop and promises of Icicle to interfaces compatible with components built for React.
 
 ##### Requirements
 
