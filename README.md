@@ -2,6 +2,8 @@
 
 # Icicle
 
+[![Join the chat at https://gitter.im/icicleio/Icicle](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/icicleio/Icicle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Icicle is a PHP library for writing *asynchronous* code using *synchronous* coding techniques.**
 
 Icicle uses [Coroutines](https://icicle.io/docs/manual/coroutines/) built with [Awaitables](https://icicle.io/docs/manual/awaitables/) and [Generators](http://www.php.net/manual/en/language.generators.overview.php) to facilitate writing asynchronous code using techniques normally used to write synchronous code, such as returning values and throwing exceptions, instead of using nested callbacks typically found in asynchronous code.
